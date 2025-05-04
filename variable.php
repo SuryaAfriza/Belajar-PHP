@@ -1,5 +1,5 @@
 <?php
-$nama="Ahmad Latif"; // String
+$nama="Surya Afriza"; // String
 $nilai_bhs=2; // Integer
 $nilai_ipa=2.5; // Double
 $bentuk_boolean = true; // Boolean
